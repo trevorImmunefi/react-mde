@@ -1,6 +1,6 @@
 {
   "name": "@trevor-immunefi/react-mde",
-  "version": "11.5.0",
+  "version": "11.5.1",
   "description": "React Markdown Editor",
   "main": "./lib/js/index.js",
   "types": "./lib/definitions/index.d.ts",
