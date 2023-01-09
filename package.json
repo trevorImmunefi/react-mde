@@ -81,10 +81,6 @@
     "webpack-stream": "^5.1.1"
   },
   "homepage": "https://github.com/andrerpena/react-mde.git#readme",
-  "peerDependencies": {
-    "react": "^17.0.0",
-    "react-dom": "^17.0.0"
-  },
   "style": "react-mde/lib/styles/css/react-mde-all.css",
   "resolutions": {
     "@types/react": "16.9.4"
