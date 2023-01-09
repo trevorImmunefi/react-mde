@@ -1,5 +1,5 @@
 {
-  "name": "react-mde",
+  "name": "@trevor-immunefi/react-mde",
   "version": "11.5.0",
   "description": "React Markdown Editor",
   "main": "./lib/js/index.js",
@@ -19,7 +19,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/andrerpena/react-mde.git"
+    "url": "git+https://github.com/trevorImmunefi/react-mde.git"
   },
   "keywords": [
     "react",
@@ -32,7 +32,7 @@
   "author": "Andre Pena",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/andrerpena/react-mde.git/issues"
+    "url": "https://github.com/trevorImmunefi/react-mde.git/issues"
   },
   "devDependencies": {
     "@cypress/webpack-preprocessor": "^5.1.2",
